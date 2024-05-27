@@ -6,9 +6,6 @@ body {
         background-size: 1500px 1000px;
     }
 
-
-
-
 .top-container{
     max-width: fit-content;
     margin:auto;
@@ -16,7 +13,7 @@ body {
 
 .middle-container{
     margin: auto;
-    width: 70%;
+    width: 80%;
     display: flex;
     flex-direction: row;
     align-items: center;
